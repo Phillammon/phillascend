@@ -2,7 +2,7 @@
   "name": "phillascend",
   "version": "1.0.0",
   "description": "Script for ascending casual runs automatically in Kingdom of Loathing",
-  "repository": "https://github.com/Loathing-Associates-Scripting-Society/garbage-collector.git",
+  "repository": "https://github.com/phillammon/phillascend.git",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
