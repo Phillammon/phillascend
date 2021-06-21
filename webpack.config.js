@@ -4,8 +4,8 @@ const path = require("path");
 
 module.exports = {
   entry: {
-    garbo: "./src/index.ts",
-    "garbo-combat": "./src/combat.ts",
+    phillascend: "./src/index.ts",
+    "phillascend-combat": "./src/combat.ts",
   },
   mode: "production",
 
@@ -17,7 +17,7 @@ module.exports = {
   },
   devtool: false,
   output: {
-    path: path.resolve(__dirname, "KoLmafia", "scripts", "garbage-collector"),
+    path: path.resolve(__dirname, "KoLmafia", "scripts", "phillascend"),
     filename: "[name].js",
     libraryTarget: "commonjs",
   },
